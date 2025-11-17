@@ -1,0 +1,1 @@
+alert('Click OK, if you are ready!')
